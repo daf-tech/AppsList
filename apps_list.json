@@ -4,5 +4,17 @@
     "app_package": "com.daftech.discounter",
     "app_link": "https://play.google.com/store/apps/details?id=com.daftech.discounter",
     "app_icon": "https://raw.githubusercontent.com/daf-tech/AppsList/main/discounter.png"
+  },
+  {
+    "app_name": "Nota & Kuitansi Instan",
+    "app_package": "com.daftech.invoiceonline",
+    "app_link": "https://play.google.com/store/apps/details?id=com.daftech.invoiceonline",
+    "app_icon": "https://raw.githubusercontent.com/daf-tech/AppsList/refs/heads/main/app%20icon/nota_instan.jpg"
+  },
+  {
+    "app_name": "Photo Receipt",
+    "app_package": "com.daftech.photoreceipt",
+    "app_link": "https://play.google.com/store/apps/details?id=com.daftech.photoreceipt",
+    "app_icon": "https://raw.githubusercontent.com/daf-tech/AppsList/refs/heads/main/app%20icon/photo_receipt.png"
   }
 ]
