@@ -1,12 +1,5 @@
 [
   {
-    "app_name": "Discounter - Hitung & Split Diskon",
-    "app_name_english": "Discounter - Calculate and Split Discount",
-    "app_package": "com.daftech.discounter",
-    "app_link": "https://play.google.com/store/apps/details?id=com.daftech.discounter",
-    "app_icon": "https://raw.githubusercontent.com/daf-tech/AppsList/main/discounter.png"
-  },
-  {
     "app_name": "Nota & Kuitansi Instan",
     "app_name_english": "Instant Invoice & Receipt",
     "app_package": "com.daftech.invoiceonline",
@@ -26,11 +19,18 @@
   },
   {
     "app_name": "Label Instan (Coming Soon)",
-    "app_name_english": "Instant Label",
+    "app_name_english": "Instant Label (Coming Soon)",
     "app_package": "com.daftech.labelinstan",
     "app_link": "https://play.google.com/store/apps/details?id=com.daftech.labelinstan",
     "app_icon": "https://raw.githubusercontent.com/daf-tech/AppsList/refs/heads/main/app%20icon/label_instan.png",
     "banner_id": "https://raw.githubusercontent.com/daf-tech/AppsList/refs/heads/main/app%20icon/Label%20Instan%20%E2%80%94%20ID.png",
     "banner_english": "https://raw.githubusercontent.com/daf-tech/AppsList/refs/heads/main/app%20icon/Label%20Instan%20%E2%80%94%20EN.png"
+  },
+  {
+    "app_name": "Discounter - Hitung & Split Diskon",
+    "app_name_english": "Discounter - Calculate and Split Discount",
+    "app_package": "com.daftech.discounter",
+    "app_link": "https://play.google.com/store/apps/details?id=com.daftech.discounter",
+    "app_icon": "https://raw.githubusercontent.com/daf-tech/AppsList/main/discounter.png"
   }
 ]
